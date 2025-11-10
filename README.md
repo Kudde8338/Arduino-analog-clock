@@ -1,9 +1,9 @@
 # Arduino analog clock
-Analog clock for arduino
+Displayes an analog clock on an lcd screen, 
 
 ## Reqiurements:
 - Arduino UNO
-- LCD Screen
+- LCD Screen (SSD1306 I2C 128x64 pixels)
 - ds3231 clock module
 - Piezo
 - Button
